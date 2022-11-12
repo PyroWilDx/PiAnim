@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+
+# PyCharm
+.idea/
+
+# Generated
+*.ppm
+*.gif
+!.readme/Anim.gif
